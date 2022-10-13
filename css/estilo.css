@@ -1,0 +1,17 @@
+body{
+    background-color: aqua;
+}
+h1{
+    text-align:center;
+    font-size: 50px;
+    background-image: url(https://i.pinimg.com/474x/bd/89/d6/bd89d61f353c74c9964e09bfe3196365--tag-scrap.jpg);
+  background-size: cover;
+background-repeat: no-repeat;
+height: 60px; /* esta etiqueta sirve para el alto de la etiqueta*/
+font-family: 'Nunito Sans', sans-serif;
+}
+#icono{
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+}
